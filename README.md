@@ -56,4 +56,5 @@ Also, thanks Shinobi and Chef James with your help and creating new custom icons
 Discontinued support for French and German and 4:3 screen UI due to SE dropping support for those languages.
 
 if you like my work and want to do donate click bon the banner
+
 [![paypal](https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X36492WV8M92U&source=url)
